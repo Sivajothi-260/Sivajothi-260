@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sivajothi%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Data%20Analyst%20%7C%20Python%20%26%20SQL%20Enthusiast&descAlignY=62&descSize=16" />
+<img width="100%" src=<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sivajothi%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Data%20Analyst%20%7C%20Python%20%26%20SQL%20Enthusiast&descAlignY=62&descSize=16" /> />
 
 <a href="https://github.com/Sivajothi-260">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sivajothi+%F0%9F%91%8B;B.Sc+Computer+Science+Student;Learning+Python+%2C+SQL+%26+Data+Analytics;Building+small+projects+one+step+at+a+time" />
